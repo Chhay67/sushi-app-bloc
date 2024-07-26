@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "California roll",
+      "quantity": 2,
+      "price": 12,
+      "rating": 4.8,
+      "image": "assets/sushi/california-roll.png"
+    },
+    {
+      "id": "2",
+      "name": "Maki Sushi",
+      "quantity": 10,
+      "price": 6,
+      "rating": 4.4,
+      "image": "assets/sushi/maki-sushi.png"
+    },
+    {
+      "id": "3",
+      "name": "Nigiri Sushi",
+      "quantity": 6,
+      "price": 6,
+      "rating": 3.7,
+      "image": "assets/sushi/maki-sushi.png"
+    },
+    {
+      "id": "4",
+      "name": "Original Sushi",
+      "quantity": 5,
+      "price": 9,
+      "rating": 4.2,
+      "image": "assets/sushi/original-sushi.png"
+    },
+    {
+      "id": "5",
+      "name": "Salmon Sushi",
+      "quantity": 7,
+      "price": 15,
+      "rating": 3.1,
+      "image": "assets/sushi/salmon-sushi.png"
+    },
+    {
+      "id": "6",
+      "name": "Sushi Sets",
+      "quantity": 2,
+      "price": 12,
+      "rating": 4.3,
+      "image": "assets/sushi/sushi-sets.png"
+    }
+  ]
+}
